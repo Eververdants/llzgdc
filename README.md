@@ -59,8 +59,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=EscapeTheBackroomsSaveGamesTools&theme=tokyonight)](https://github.com/Eververdants/EscapeTheBackroomsSaveGamesTools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=EscapeTheBackroomsBetterChineseLocalization&theme=tokyonight)](https://github.com/Eververdants/EscapeTheBackroomsBetterChineseLocalization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ETBSaveManager&theme=tokyonight)](https://github.com/Eververdants/ETBSaveManager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ETBBetterChineseLocalization&theme=tokyonight)](https://github.com/Eververdants/ETBBetterChineseLocalization)
 
 </div>
 
